@@ -1,0 +1,9 @@
+
+#concatenation : adding of two strings / joining of two strings
+
+a="Pavithra"
+b="gowda"
+c=a+b
+print(c)
+d=a+" "+b
+print(d)
