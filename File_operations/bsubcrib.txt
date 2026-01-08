@@ -1,0 +1,5 @@
+idsub,name,gender,phone,idplace
+101,abc,m,2345678,11
+102,xyz,f,78885765,12
+103.puy,m,889900,13
+101,diya,m,8765,12

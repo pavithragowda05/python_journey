@@ -1,0 +1,7 @@
+id,name,place,branch
+1,pavi,hassan,101
+2,harshi,arisikere,102
+3,nayana,belur,103
+4,adya,hassan,101
+5,siri,arisikere,102
+6,john,belur,103

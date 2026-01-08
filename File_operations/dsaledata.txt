@@ -1,0 +1,16 @@
+id,customername,gender,itemname,category,priceperunnit,quantity
+1,adhya,f,laptop,E,50000,1
+2,john,m,smartphone,E,20000,2
+3,rakshi,f,refrigerator,E,30000,1
+4,yashu,m,sandwich,F,200,5
+5,punya,f,microwave,E,8000,1
+6,sandeep,m,laptop,E,60000,1
+7,pavi,f,jacket,C,1500,2
+8,chandu,f,camera,E,25000,1
+9,harshi,m,pizza,F,500,3
+10,priya,m,television,E,40000,1
+11,lucy,f,shoes,C,2000,2
+12,ethan,m,tablet,E,55000,1
+13,lily,f,sandwich,F,300,2
+14,arun,m,t-shirt,C,1000,3
+15,ananya,f,tablet,E,20000,1

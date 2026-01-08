@@ -1,0 +1,13 @@
+id,name,dep,place,salary
+1,pavi,test,hassan,1000
+2,sc,tecnical,mysure,100000
+3,rty,anlytic,hassan,67877
+4,riha,anlytic,shivamogga,890
+5,hanu,hr,hhaveri,3000
+6,banu,network,kolar,45666
+1,pavi,test,kolar,1000
+2,sc,tecnical,hassan,100000
+3,rty,anlytic,shivamogga,67877
+4,riha,anlytic,hhaveri,890
+5,hanu,hr,kolar,3000
+6,banu,network,kolar,45666

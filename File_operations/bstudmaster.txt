@@ -1,0 +1,7 @@
+id,name,idplace,idbranch
+1,pavi,1,101
+2,harshi,2,102
+3,nayana,3,103
+4,adya,1,101
+5,siri,2,102
+6,john,3,103

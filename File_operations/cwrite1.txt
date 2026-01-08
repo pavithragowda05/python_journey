@@ -1,0 +1,4 @@
+name,age,salary
+amar,40,90000
+akbar,45,60000
+antony,50,80000

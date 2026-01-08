@@ -1,0 +1,6 @@
+name,age,salary
+pavi,18,90000
+harshi,24,100000
+name,age,salary
+hani,23,120000
+muddu,24,900000

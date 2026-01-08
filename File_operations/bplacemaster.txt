@@ -1,0 +1,4 @@
+idplace,place
+1,hassan
+2,arisikere
+3,belur
