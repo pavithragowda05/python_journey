@@ -36,10 +36,12 @@ Improved problem-solving and analytical skills
 
 Python
 
+Anaconda
+
+Jupyter Notebook
+
 Git & GitHub
 
 VS Code / IDE
-
-📌 Conclusion
 
 This internship helped me strengthen my programming foundation, improve coding discipline, and gain confidence in writing Python applications. I continue to learn and enhance my skills through practice and real-world projects.
